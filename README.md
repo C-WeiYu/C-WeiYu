@@ -1,6 +1,11 @@
 ### Hi there 👋
+![Wei's stats](https://github-readme-stats.vercel.app/api?username=C-WeiYu&theme=swift&bg_color=00000000&show_icons=true&border_radius=10&card_width=700px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-WeiYu&hide=html,css,SCSS,C,shell,PHP,makefile&layout=compact&hide_progress=true)](https://github.com/C-WeiYu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-WeiYu&repo=WoT_Final_Project&show_owner=true&theme=shadow_blue)](https://github.com/C-WeiYu/WoT_Final_Project)
 
 <!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=C-WeiYu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 **C-WeiYu/C-WeiYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
