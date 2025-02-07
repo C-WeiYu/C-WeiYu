@@ -7,7 +7,9 @@
 
 ## Github Status  ![](https://komarev.com/ghpvc/?username=C-WeiYu) ![GitHub followers](https://img.shields.io/github/followers/C-WeiYu) ![GitHub User's stars](https://img.shields.io/github/stars/C-WeiYu)
 
+<!--
 ![Wei's stats](https://github-readme-stats.vercel.app/api?username=C-WeiYu&theme=swift&bg_color=00000000&show_icons=true&border_radius=10&card_width=500px)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-WeiYu&hide=html,css,SCSS,C,shell,PHP,makefile,jupyter%20notebook&layout=compact&hide_progress=true)](https://github.com/C-WeiYu/github-readme-stats) 
 
 
